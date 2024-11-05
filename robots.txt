@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ulucuetu.github.io/HlJ/sitemap_index.txt
+Sitemap: https://ulucuetu.github.io/iCJ/sitemap_index.txt
+Sitemap: https://ulucuetu.github.io/jBS/sitemap_index.txt
+Sitemap: https://ulucuetu.github.io/jUt/sitemap_index.txt
